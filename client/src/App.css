@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  color: white;
+  font-size: calc(5px + 2vmin);
+}
+
+.App-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(100px + 2vmin);
+}
+
+.App-button{
+    font-size: calc(3px + 2vmin);
+    margin-bottom:30px;
+    width: 200px
+}
+
+.App-block{
+ display: inline-block;
+ min-height: 150px;
+ min-width: 300px;
+ border: solid;
+ margin:5px;
+ padding:10px;
+ font-size: calc(15px + 2vmin);
+}
+
